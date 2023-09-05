@@ -189,7 +189,7 @@ hr{
 .details div{
     display: flex;
     gap: 4px;
-    align-items: flex-end;
+    align-items: center;
     color: gray;
     fill: gray;
     font-size: smaller;
